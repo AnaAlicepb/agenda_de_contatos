@@ -11,7 +11,7 @@
 
 <header>
     <h1>Agenda de Contatos</h1>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fagenda_217888&psig=AOvVaw1n-NN3kT-PI18w4Op6KIhY&ust=1716236993439000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiEnpbHmoYDFQAAAAAdAAAAABAE" alt="Ícone de Agenda" width="300" height="auto">
+    <img src="https://img.freepik.com/psd-gratuitas/icone-de-calendario-isolado-renderizacao-3d-ilustracao_439185-11948.jpg?w=740&t=st=1716150787~exp=1716151387~hmac=ec17dc864141b59aac9c8533f02dd4219f2b4dc3f18be856a6126fd697dedc59" alt="Ícone de Agenda" width="300" height="auto">
 </header>
 
 <details>
